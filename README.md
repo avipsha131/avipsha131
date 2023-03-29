@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **avipsha131/avipsha131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
